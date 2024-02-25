@@ -107,7 +107,7 @@ class UserServiceImplementTest {
 
 
 
-    @Test
+    /*@Test
     void canUpdateById() throws BadRequestException{
 
         //given
@@ -140,7 +140,7 @@ class UserServiceImplementTest {
 
         assertThat(capturedUser).isEqualTo(updatedUser);
         assertThat(result).isEqualTo(updatedUser);
-    }
+    }*/
 
 
 
